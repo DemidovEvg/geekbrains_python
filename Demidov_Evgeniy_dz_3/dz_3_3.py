@@ -42,6 +42,7 @@ def get_jokes(num=1, *, with_repeat=False)->list:
     return jokes_list
 
 
+
 if (__name__) == '__main__':
     jokes = get_jokes(10, with_repeat=True)
     print(jokes)
