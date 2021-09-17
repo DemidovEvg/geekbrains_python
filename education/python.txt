@@ -1,0 +1,4 @@
+https://pythononline.ru/osnovy/parsing-xml-python Парсинг XML
+beautifulsoup4 4.10.0 - PyPI парсинг HTML
+
+from time import perf_counter //замер времени выполения

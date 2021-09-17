@@ -1,0 +1,140 @@
+Валидаторы, плагины(FireBug, WebDeveloper)
+Оптимизация изображений(TinyPNG)
+разные браузеры(can I use)
+bootstrap - framework css
+saas
+
+селекторы: .class #id h1 
+вложенность li a {} после li найти a
+дочерний li>a {} после li сразу найди дочерний а
+соседний .menu + .text стилизуем соседа
+
+наследование, стили наследуются, <p><h1></h1></p>исключение ССЫЛКА!!
+!
+
+background-color: #ff0
+background-image: url(img/foro.jpg)
+background-repeat: repeat-x;(repeat-y | no-repeat)
+abackground-position: top; (bottom | legt | right)
+background-attachment: fixed
+background-size: cover; (contain | 100%)
+background: ...
+
+border-color: red
+border-style: solid
+border-width: 2px
+border: 1px solid black
+
+.block + tab => <div class="block"></div> emmet!!!
+(h1>Lorem+p)*3 + tab
+bd + tab => border: 1px solid #000
+bgc + tab => background-color: #ccc
+bgi + tab => background-image: url(...)
+
+color: red
+
+font-family:"Times New Toman", serif, Verdana;
+font-style: intalic (oblique | normal |bold
+font_variant: small-caps
+font-weight: bold (100)
+font-size: 20px
+
+Список:
+list-style-type: cirlce
+list-style-position: inside
+list-style-image: url()
+
+text-align:center (justify)
+text-decoration:none; (line-throught...)
+text-transform:capitalize; lowercase ...
+
+h2.heading + tab => <h2 class="heading">...
+ul>li{list-$}*5
+
+Блочная модель!!!
+margin + border + padding + width
+box-sizing: border-box
+* { /*обнуление отступов*/
+margin: 0;
+padding:0;
+}
+
+Обтекаемость
+float: left;
+overflow:hidden скрыть перекрытие
+clear:both что бы футер не наезжал на float
+
+display
+	none — скрыть;
+	block — блочный;
+	inline — строчный;
+	inline-block — строчно-блочный;
+	table-cell — ячейка таблицы;
+	flex — гибкий.
+
+line-height: 50px; /центрирование текста, сделав его данной высотой
+text-align: center;
+
+.content:hover .text {
+  display: block;
+}
+
+flex:
+main start - main end
+cross start - sross end
+main axis cross axiss
+justify-content: flex-start (default) flex-end center space-between space-around
+align-content(если несколько строк) flex-start: все линии прижимаются к началу вертикальной оси. flex-end center space-between space-around stretch (default)
+align-items(то что внутри флекса): flex-start flex-end center baseline stretch (default)
+align-self = align-items только для текущего элемента
+не блочный элемент, поэтому для дочерних элементов не работают такие CSS-свойства, как float, clear, vertical-align
+flex-direction: row row-reverse column column-reverse
+flex-wrap: wrap
+flex-flow = flex-direction + flex-wrap flex-flow: column nowrap
+order: 0
+
+
+position: static + top, right, bottom и left отображает элемент с нарушением обычного порядка, смещая его на заданное расстояние
+position: absolute
+position: relative (относительное позиционирование)
+position: fixed
+position: sticky
+z-index 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -13,4 +13,5 @@ if __name__ == '__main__':
             print(f'Курс {current} равен {result:.4f}р /Дата ответа - {datetime_object}')
         else:
             print(f'None')
+
         
