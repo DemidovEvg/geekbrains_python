@@ -9,3 +9,9 @@ On Unix or MacOS, run:
 source tutorial-env/bin/activate
 
 deactivate
+
+lssitepackages - //Посмотреть какие модули установлены
+
+pip freeze > requirements.txt //Слепок библиотек/компонентов
+
+pip install -r requirements.txt -v  ? //установить библиотеки по списку
