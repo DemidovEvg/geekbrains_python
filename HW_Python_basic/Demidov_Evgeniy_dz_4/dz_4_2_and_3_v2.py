@@ -48,7 +48,7 @@ def current_rates(current_code, type_of_course):
         return None, datetime_string
     
 if __name__ == '__main__':
-    current = 'usd'
+    current = 'eur'
     result, datetime_object = current_rates(current, float)
     if result != None:
         print(f'Курс {current} равен {result:.4f}р /Дата ответа - {datetime_object}')
