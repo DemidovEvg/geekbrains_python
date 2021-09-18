@@ -12,7 +12,6 @@
 # *(вместо 1) Найти IP адрес спамера и количество отправленных им запросов по данным файла логов из предыдущего задания.
 # Примечание: спамер — это клиент, отправивший больше всех запросов; код должен работать даже с файлами, размер которых превышает объем ОЗУ компьютера.
 
-from typing import Dict
 import requests
 import re
 from time import perf_counter
@@ -24,8 +23,8 @@ with requests.get(url, stream=True) as r:
         r.encoding = 'utf-8'
 
     log_list = []
-    #Определим что максимум можем занять 30 кб ОЗУ
-    MAX_BYTES = 1024*30
+    #Определим что максимум можем занять 1 кб ОЗУ
+    MAX_BYTES = 1024*1
     log_generator = r.iter_content(chunk_size = MAX_BYTES, decode_unicode=True)
 
     count = 0
@@ -41,10 +40,12 @@ with requests.get(url, stream=True) as r:
              is_need_save_last_element = True
         else:
              is_need_save_last_element = False
+
         log_line_list = log_chunk.split('\n')
         log_line_list[0] = previously_last_element + log_line_list[0] 
         if is_need_save_last_element:
             previously_last_element = log_line_list[len(log_line_list) - 1]
+            log_line_list[len(log_line_list) - 1] = ''
         else:
             previously_last_element = ''
                   
@@ -54,7 +55,6 @@ with requests.get(url, stream=True) as r:
             is_find_request_type = False
             is_requested_resource = False
             for log_element in line.split():
-                #print(log_element)
                 if not is_find_remote_addr:
                     remote_addr = re.search(r'^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$', log_element)
                     if remote_addr:
@@ -70,7 +70,6 @@ with requests.get(url, stream=True) as r:
                         is_requested_resource = True
                 if is_find_remote_addr and is_find_request_type and is_requested_resource:
                     log_list.append((remote_addr.group(0), request_type.group(0), requested_resource.group(0)))
-                    #print((remote_addr.group(0), request_type.group(0), requested_resource.group(0)))
                     if remote_addr.group(0) in response_counter:
                         response_counter[remote_addr.group(0)] += 1
                     else:
@@ -81,7 +80,7 @@ with requests.get(url, stream=True) as r:
 print(f'get data time: {perf_counter() - start}')   
 
 spammers = list()
-# Пусть спаммеры это те у кого больше 1000 запросов
+# Пусть спаммеры - это те у кого больше 1000 запросов
 for current_ip_iter,  current_ip_requests_count_iter in response_counter.items():
     if current_ip_requests_count_iter > 1000:
         spammers.append((current_ip_iter, current_ip_requests_count_iter))

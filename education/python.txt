@@ -21,6 +21,7 @@ b'bytes' = 'Байты'.encode('utf-8') = bytes('bytes', encoding = 'utf-8')
 bytearray(b'hello world!') в отличии от bytes изменяемый
 
 import requests
+with requests.get(url, stream=True) as r:
 response = requests.request('GET', url) or response = requests.get(url)
 encodings = requests.utils.get_encoding_from_headers(response.headers)
 content = response.content.decode(encoding=encodings)
