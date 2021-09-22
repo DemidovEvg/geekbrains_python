@@ -1,0 +1,18 @@
+# в каждой строе отдельный элемент обязательно!!!
+# отступ должен быть кратен трем пробелам!!!
+# в наименовании пустой папки двоеточие не ставим!!!
+dem_project:
+   -empy
+   -print2:
+      -templates:
+         -templ1.txt
+         -templ2.txt
+         -settings3:
+            -settings4
+   -settings:
+      -__init__.py
+      -print:
+         -file3.txt
+   -templates:
+      -res.txt  
+
