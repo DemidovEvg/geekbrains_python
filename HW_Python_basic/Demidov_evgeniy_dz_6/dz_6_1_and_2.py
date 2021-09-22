@@ -24,7 +24,7 @@ with requests.get(url, stream=True) as r:
 
     log_list = []
     #Определим что максимум можем занять 1 кб ОЗУ
-    MAX_BYTES = 1024*1
+    MAX_BYTES = 1024*30
     log_generator = r.iter_content(chunk_size = MAX_BYTES, decode_unicode=True)
 
     count = 0
@@ -32,9 +32,14 @@ with requests.get(url, stream=True) as r:
     is_need_save_last_element = False
     previously_last_element = ''
     response_counter = dict()
+    
     for log_chunk in log_generator:
         
-        # Так как считываем информацию кусками, то необходимо добавить обрезок в конце, 
+        # Так как считываем информацию кусками, 
+        # (начало куска)93.180.71.3 - - [17/May/204...
+        # //93.180.71.3 - - [17/May/204...
+        # //93.180.71.3 (кусок кончился без символа \n)
+        # то необходимо добавить обрезок в конце, 
         # к первому элементу следующего куска
         if log_chunk[len(log_chunk)-1] != '\n':
              is_need_save_last_element = True
@@ -48,7 +53,7 @@ with requests.get(url, stream=True) as r:
             log_line_list[len(log_line_list) - 1] = ''
         else:
             previously_last_element = ''
-                  
+                 
         for line in  log_line_list:
             count = count + 1
             is_find_remote_addr = False
@@ -57,14 +62,15 @@ with requests.get(url, stream=True) as r:
             for log_element in line.split():
                 if not is_find_remote_addr:
                     remote_addr = re.search(r'^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$', log_element)
+
                     if remote_addr:
                         is_find_remote_addr = True
-                if not is_find_request_type:   
+                if is_find_remote_addr and not is_find_request_type:   
                     request_type = re.search(r'(?:GET)|(?:PUT)|(?:CONNECT)|(?:DELETE)|(?:HEAD)|(?:OPTIONS)|(?:POST)|(?:TRACE)', 
                                             log_element, flags=re.IGNORECASE)
                     if request_type:
                         is_find_request_type = True
-                if not is_requested_resource:
+                if is_find_request_type and not is_requested_resource:
                     requested_resource = re.search(r'^(?:/\w+){1,10}\w+$', log_element)
                     if requested_resource:
                         is_requested_resource = True
@@ -75,9 +81,11 @@ with requests.get(url, stream=True) as r:
                     else:
                         response_counter[remote_addr.group(0)] = 1
                     break
+        
 
         
-print(f'get data time: {perf_counter() - start}')   
+print(f'get data time: {perf_counter() - start}') 
+print(f'Length log list: {len(log_list)}')
 
 spammers = list()
 # Пусть спаммеры - это те у кого больше 1000 запросов
