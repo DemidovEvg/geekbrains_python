@@ -23,7 +23,7 @@ with requests.get(url, stream=True) as r:
         r.encoding = 'utf-8'
 
     log_list = []
-    #Определим что максимум можем занять 1 кб ОЗУ
+    #Определим что максимум можем занять 30 кб ОЗУ
     MAX_BYTES = 1024*30
     log_generator = r.iter_content(chunk_size = MAX_BYTES, decode_unicode=True)
 
@@ -32,6 +32,9 @@ with requests.get(url, stream=True) as r:
     is_need_save_last_element = False
     previously_last_element = ''
     response_counter = dict()
+    RE_REMOTE_ADDR = re.compile(r'^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$')
+    RE_REQUEST_TYPE = re.compile(r'(?:GET)|(?:PUT)|(?:CONNECT)|(?:DELETE)|(?:HEAD)|(?:OPTIONS)|(?:POST)|(?:TRACE)', flags=re.IGNORECASE)
+    RE_REQUEST_RESOURSE = re.compile(r'^(?:/\w+){1,10}\w+$')
     
     for log_chunk in log_generator:
         
@@ -45,7 +48,6 @@ with requests.get(url, stream=True) as r:
              is_need_save_last_element = True
         else:
              is_need_save_last_element = False
-
         log_line_list = log_chunk.split('\n')
         log_line_list[0] = previously_last_element + log_line_list[0] 
         if is_need_save_last_element:
@@ -55,23 +57,20 @@ with requests.get(url, stream=True) as r:
             previously_last_element = ''
                  
         for line in  log_line_list:
-            count = count + 1
             is_find_remote_addr = False
             is_find_request_type = False
             is_requested_resource = False
             for log_element in line.split():
                 if not is_find_remote_addr:
-                    remote_addr = re.search(r'^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$', log_element)
-
+                    remote_addr = RE_REMOTE_ADDR.search(log_element)
                     if remote_addr:
                         is_find_remote_addr = True
                 if is_find_remote_addr and not is_find_request_type:   
-                    request_type = re.search(r'(?:GET)|(?:PUT)|(?:CONNECT)|(?:DELETE)|(?:HEAD)|(?:OPTIONS)|(?:POST)|(?:TRACE)', 
-                                            log_element, flags=re.IGNORECASE)
+                    request_type = RE_REQUEST_TYPE.search(log_element)
                     if request_type:
                         is_find_request_type = True
                 if is_find_request_type and not is_requested_resource:
-                    requested_resource = re.search(r'^(?:/\w+){1,10}\w+$', log_element)
+                    requested_resource = RE_REQUEST_RESOURSE.search(log_element)
                     if requested_resource:
                         is_requested_resource = True
                 if is_find_remote_addr and is_find_request_type and is_requested_resource:
