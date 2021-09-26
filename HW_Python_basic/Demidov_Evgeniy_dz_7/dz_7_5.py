@@ -10,6 +10,9 @@
 import os
 from pathlib import Path
 from collections import defaultdict
+import json
+from typing import Dict
+
 def get_ext(file):
     name = file.name
     ext = name.rsplit('.')
@@ -27,11 +30,10 @@ def generate_key(size):
             count *= 10
 
 
-path_to_folder = os.getcwd()
-folder_obj = Path(path_to_folder)
-dict_from_file = dict()
+folder_obj = Path.cwd()
+dict_from_file = defaultdict(int)
+print(folder_obj)
 
-print(path_to_folder)
 for cur_file in folder_obj.glob('**/*.*'):
     if cur_file.is_file():
         size = cur_file.stat().st_size   
@@ -47,6 +49,13 @@ for cur_file in folder_obj.glob('**/*.*'):
             ext_list = [ext]
 
         dict_from_file[key] = (count_file, ext_list)
-
+sorted_dict = dict()
 for key, val in sorted(dict_from_file.items(), key = lambda d: d[0]):
-    print(f'{key}: {val}')
+    sorted_dict[key] = val
+
+script_dir = Path(__file__).parent
+json_summary = script_dir/f'{folder_obj.name}_summary.json'
+
+with json_summary.open('w', encoding='utf-8') as fp:
+    json.dump(dict_from_file, fp, indent=3, sort_keys=True)
+

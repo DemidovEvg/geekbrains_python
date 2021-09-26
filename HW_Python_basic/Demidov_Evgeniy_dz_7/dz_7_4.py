@@ -25,10 +25,10 @@ def generate_key(size):
             count *= 10
 
 
-path_to_folder = os.getcwd()
-folder_obj = Path(path_to_folder)
+folder_obj = Path.cwd()
 dict_from_file = defaultdict(int)
-print(path_to_folder)
+print(folder_obj)
+
 for cur_file in folder_obj.glob('**/*.*'):
     size = cur_file.stat().st_size
     key = generate_key(size)

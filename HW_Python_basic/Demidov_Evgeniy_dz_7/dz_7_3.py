@@ -29,13 +29,12 @@ folder_with_templates = Path(script_dir, 'templates_set')
 if not folder_with_templates.exists():
     folder_with_templates.mkdir()
     
-for root, dirs, files in os.walk(root_dir.resolve()):
-    if 'templates' in root:
-        for f in files:
-            f_path = os.path.join(root, f)
-            rel_path = os.path.relpath(f_path, root_dir)
-            f_output_path = os.path.join(folder_with_templates, rel_path)
-            path_for_file = Path(f_output_path).parent
-            path_for_file.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(f_path, f_output_path)
+for template_folder in root_dir.glob(r'**\templates'):
+    for template_file in template_folder.glob(r'**\*.*'):
+        #print(template_file)  
+        rel_path_file = template_file.relative_to(template_folder)
+        new_path_file = folder_with_templates / rel_path_file
+        print(new_path_file)
+        new_path_file.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(template_file, new_path_file)
 

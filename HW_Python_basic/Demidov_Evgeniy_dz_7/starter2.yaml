@@ -5,10 +5,11 @@ dem_project:
    -empy
    -print2:
       -templates:
-         -templ1.txt
-         -templ2.txt
-         -settings3:
-            -settings4
+         -one_templ:
+            -templ1.txt
+            -templ2.txt
+         -two_templ:
+            -templ3.txt
    -settings:
       -__init__.py
       -print:
