@@ -1,0 +1,4 @@
+func(10, 2, *, sec_name=Demidov, for_what=for solve quadratic equation) => result = 100
+func(10, 2, *, sec_name=Demidov, for_what=for solve quadratic equation) => result = 100
+func(10, 2, *, sec_name=Demidov, for_what=for solve quadratic equation) => result = 100
+func(10, 2, *, sec_name=Demidov, for_what=for solve quadratic equation) => result = 100
