@@ -28,3 +28,4 @@ content = response.content.decode(encoding=encodings)
 https://docs.python-requests.org/en/master/api/
 
 регулярные выражения https://habr.com/ru/post/349860/
+https://regex101.com/
