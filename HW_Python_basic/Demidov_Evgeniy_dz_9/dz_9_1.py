@@ -40,9 +40,7 @@ class TrafficLight:
         print(color)
         self.color = color
         self._delay_light(color)
-
-        
-
+      
     def _delay_light(self, color):
         if color == 'red':
             time.sleep(1)
