@@ -1,5 +1,0 @@
-Проверка path на windows: просто path
-Проверка path на Linux:echo $PATH
-
-python:
-sys.path

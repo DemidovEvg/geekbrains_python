@@ -1,3 +1,1 @@
-import foo
-
-foo.bar.qwe()
+шьзщке 

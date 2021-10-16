@@ -1,9 +1,0 @@
-pip freeze                   #Посмотреть какие пакеты установлены
-pip show requests            #Показать версю пакета
-pip uninstall <имя пакета>   #удалить пакет
-pip install django==2.2      #установить пакет из pypi.org
-pip freeze > requirements.txt #записать название всех пакетов в файл
-pip3 install -r requirements.txt #установить все пакеты из перечня
-
-requests - пакет для работы с сайтами через запросы HTTP
-face_recognition - пакет для работы с фотография, распознование лиц
