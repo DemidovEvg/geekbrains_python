@@ -14,7 +14,7 @@ def time_counter(*, rep = 1):
     return  time_counter_inner1
 
 
-@time_counter(rep = 10)
+@time_counter(rep = 1)
 def first_solution(numbers):
     result_list = []
     for i, number in enumerate(numbers):
@@ -23,7 +23,7 @@ def first_solution(numbers):
     return result_list
 
 
-@time_counter(rep = 10)  
+@time_counter(rep = 1)  
 def second_solution(numbers):
     result_list = []
     first_appear = {}
@@ -44,7 +44,7 @@ def second_solution(numbers):
     return result_list
 
 
-numbers = list(np.random.randint(low = 1, high = 10, size = 10000))
+numbers = list(np.random.randint(low = 1, high = 10, size = 100000))
 
 print(first_solution(numbers)[100])
 print(second_solution(numbers)[100])
