@@ -1,53 +1,93 @@
-import queue
-import requests
-from codetiming import Timer
- 
- 
-def task(name, work_queue):
-    timer = Timer(text=f"Task {name} elapsed time: {{:.1f}}")
-    with requests.Session() as session:
-        while not work_queue.empty():
-            url = work_queue.get()
-            print(f"Task {name} getting URL: {url}")
-            timer.start()
-            session.get(url)
-            timer.stop()
-            yield
- 
- 
-def main():
-    """
-    Это основная точка входа в программу
-    """
-    # Создание очереди работы
-    work_queue = queue.Queue()
- 
-    # Помещение работы в очередь
-    for url in [
-        "http://google.com",
-        "http://yahoo.com",
-        "http://linkedin.com",
-        "http://apple.com",
-        "http://microsoft.com",
-        "http://facebook.com",
-        "http://twitter.com",
-    ]:
-        work_queue.put(url)
- 
-    tasks = [task("One", work_queue), task("Two", work_queue)]
- 
-    # Запуск задачи
-    done = False
-    with Timer(text="\nTotal elapsed time: {:.1f}"):
-        while not done:
-            for t in tasks:
-                try:
-                    next(t)
-                except StopIteration:
-                    tasks.remove(t)
-                if len(tasks) == 0:
-                    done = True
- 
- 
-if __name__ == "__main__":
-    main()
+# Note (Example is valid for Python v2 and v3)
+from __future__ import print_function
+
+import sys
+
+#sys.path.insert(0, 'python{0}/'.format(sys.version_info[0]))
+
+import mysql.connector
+from mysql.connector.constants import ClientFlag
+
+config = {
+    'user': 'root',
+    'password': 'Demidov1988@',
+    'host': 'localhost',
+    'port': '3304',
+    'database': 'demidov_db',
+    # 'client_flags': [ClientFlag.SSL],
+    # 'ssl_ca': '/opt/mysql/ssl/ca.pem',
+    # 'ssl_cert': '/opt/mysql/ssl/client-cert.pem',
+    # 'ssl_key': '/opt/mysql/ssl/client-key.pem',
+}
+
+
+
+try:
+    with mysql.connector.connect(**config) as connection:
+      with connection.cursor() as cursor:        
+        insert_query = """
+        INSERT INTO person (name, age)
+        VALUES ( %s, %s )
+        """
+        records = []
+        with open('names.txt', 'r', encoding='utf-8') as f: 
+          data = f.read().split('\n')
+          count = 0
+          for d in data:
+            d_clean = d.strip().replace("'", '')
+            if d_clean != '':
+              records.append(tuple(d.rsplit(' ', maxsplit=1)))
+            # count += 1
+            # if count == 20:
+            #   break
+            
+
+        # cursor.execute("SELECT * FROM person")
+        # result = cursor.fetchall()
+        cursor.executemany(insert_query, records)
+        # print(type(result))
+        # for t in result:
+        #   print(t)
+        connection.commit()
+
+        # insert_reviewers_query = """
+        #       INSERT INTO reviewers
+        #       (first_name, last_name)
+        #       VALUES ( %s, %s )
+        #       """
+        # reviewers_records = [
+        #     ("Chaitanya", "Baweja"),
+        #     ("Mary", "Cooper"),
+        #     ("John", "Wayne"),
+        #     ("Thomas", "Stoneman"),
+        #     ("Penny", "Hofstadter"),
+        #     ("Mitchell", "Marsh"),
+        #     ("Wyatt", "Skaggs"),
+        #     ("Andre", "Veiga"),
+        #     ("Sheldon", "Cooper"),
+        #     ("Kimbra", "Masters"),
+        #     ("Kat", "Dennings"),
+        #     ("Bruce", "Wayne"),
+        #     ("Domingo", "Cortes"),
+        #     ("Rajesh", "Koothrappali"),
+        #     ("Ben", "Glocker"),
+        #     ("Mahinder", "Dhoni"),
+        #     ("Akbar", "Khan"),
+        #     ("Howard", "Wolowitz"),
+        #     ("Pinkie", "Petit"),
+        #     ("Gurkaran", "Singh"),
+        #     ("Amy", "Farah Fowler"),
+        #     ("Marlon", "Crafford"),
+        #     ]
+        # cursor.executemany(insert_reviewers_query, reviewers_records)
+
+    connection.commit()
+
+
+
+
+
+
+
+except mysql.connector.Error as e:
+    print(e)
