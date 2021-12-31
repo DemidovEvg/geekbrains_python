@@ -1,179 +1,41 @@
 ,title,min salary,max salary,currency,emploer,link
-0,Старший/Ведущий аналитик,2822,-,USD,ООО Крит,https://spb.hh.ru/vacancy/44747352?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-1,Ведущий аналитик,-,-,USD,Мегалит,https://spb.hh.ru/vacancy/49081898?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-2,Аналитик,2117,-,USD,Lenvendo,https://spb.hh.ru/vacancy/48058870?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-3,Ведущий аналитик,-,-,USD,"«Почта России», Офис",https://spb.hh.ru/vacancy/48497676?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-4,Ведущий аналитик,-,-,USD,Digital Design,https://spb.hh.ru/vacancy/49044394?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-5,Ведущий аналитик,-,-,USD,Digital Design,https://spb.hh.ru/vacancy/49044368?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-6,Ведущий аналитик Отдела операционного маркетинга,-,-,USD,ООО ОРИМИ ТРЭЙД,https://spb.hh.ru/vacancy/48345410?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-7,Продуктовый аналитик,-,-,USD,GrowFood,https://spb.hh.ru/vacancy/42329774?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-8,Аналитик,-,1693,USD,ООО КримТех,https://spb.hh.ru/vacancy/48943621?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-9,Ведущий аналитик данных,1411,1411,USD,ООО Агентство судебного взыскания,https://spb.hh.ru/vacancy/47909324?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-10,Ведущий аналитик отдела инвестиционного контроллинга,-,-,USD,"Лента, федеральная розничная сеть, Офис",https://spb.hh.ru/vacancy/48416564?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-11,Старший аналитик,-,-,USD,ООО ОРИМИ ТРЭЙД,https://spb.hh.ru/vacancy/48850784?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-12,Ведущий аналитик 1С,-,2117,USD,ПитерСофт,https://spb.hh.ru/vacancy/48380442?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-13,Ведущий аналитик (логистика),1411,-,USD,ООО Корона Авто,https://spb.hh.ru/vacancy/48195062?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-14,Ведущий аналитик,1129,-,USD,ООО Агентство судебного взыскания,https://spb.hh.ru/vacancy/47712683?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-15,Ведущий аналитик,-,-,USD,"Максимум, Автомобильный холдинг",https://spb.hh.ru/vacancy/48293215?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-16,Ведущий аналитик 1С,1976,1976,USD,ПЕНОПЛЭКС,https://spb.hh.ru/vacancy/45447010?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-17,Ведущий аналитик,-,-,USD,"ПАО «Группа Черкизово», Центральный офис",https://spb.hh.ru/vacancy/48706888?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-18,Ведущий Аналитик 1С,2117,2822,USD,diHouse (ГК ЛАНИТ),https://spb.hh.ru/vacancy/48549083?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-19,Бизнес-аналитик удаленно,-,2117,USD,Илюмжинова Вера Викторовна,https://spb.hh.ru/vacancy/48553345?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-20,Ведущий бизнес-аналитик,957,1116,USD,АКМЭ сервис,https://spb.hh.ru/vacancy/48443707?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-21,Специалист по контекстной рекламе / Контестолог / Директолог,988,-,USD,ООО Строй-Сервис,https://spb.hh.ru/vacancy/49036714?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-22,Интернет-маркетолог (уровень Middle+/Senior),1129,1976,USD,Sound Dealer,https://spb.hh.ru/vacancy/48880800?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-23,Старший менеджер по подбору персонала,-,-,USD,Авито: продажи,https://spb.hh.ru/vacancy/49080833?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-24,Старший менеджер по работе с крупными корпоративными клиентами,-,-,USD,Сбер для экспертов,https://spb.hh.ru/vacancy/48254514?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-25,Senior IT recruiter (Gamedev),2117,-,USD,ООО Amaya Soft,https://spb.hh.ru/vacancy/48742866?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-26,Менеджер по продажам / Менеджер отдела продаж / ЛИДоруб,1129,2963,USD,ООО Строй-Сервис,https://spb.hh.ru/vacancy/46639966?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-27,Системный аналитик,2117,-,USD,ООО ЛК Сименс Финанс,https://spb.hh.ru/vacancy/48901138?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-28,Ведущий менеджер по подбору персонала,988,-,USD,Компания Кухонный завод,https://spb.hh.ru/vacancy/48251240?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-29,Менеджер отдела квалификации (обработка входящих заявок и назначение встреч),564,988,USD,INVO Group,https://spb.hh.ru/vacancy/48919796?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-30,Бизнес / системный аналитик,-,2540,USD,АРТ-БАНК,https://spb.hh.ru/vacancy/48470064?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-31,Ведущий аналитик BI,-,-,USD,СИГМА,https://spb.hh.ru/vacancy/48978442?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-32,Ведущий бизнес-аналитик,-,-,USD,Eqvanta,https://spb.hh.ru/vacancy/48560167?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-33,Старший бизнес-аналитик СЭД,1411,-,USD,Syntellect (ООО СИНТЕЛЛЕКТ),https://spb.hh.ru/vacancy/42785686?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-34,Системный аналитик (Senior),2822,3528,USD,ООО Интеллектуальные Продукты,https://spb.hh.ru/vacancy/48888663?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-35,Ведущий специалист по аналитике,-,-,USD,Билайн,https://spb.hh.ru/vacancy/48405082?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-36,"Главный специалист (аналитика, прогнозирование)",889,-,USD,"«Почта России», Офис",https://spb.hh.ru/vacancy/46984298?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-37,"Аналитик 1С / Ведущий аналитик 1С ERP (Финансы, бухгалтерия, зарплата)",1411,2258,USD,ВНЕДРЕНЕЦ,https://spb.hh.ru/vacancy/48299604?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-38,Аналитик CRM / бизнес-аналитик,-,-,USD,ДЛТ. ЦУМ – Санкт-Петербург,https://spb.hh.ru/vacancy/47565021?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-39,System Analyst/ Системный аналитик (возможность полной удаленной работы),2117,-,USD,Екассир,https://spb.hh.ru/vacancy/47109559?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-40,Data Analyst,2822,-,USD,Novakid Inc,https://spb.hh.ru/vacancy/48775586?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-41,Финансовый аналитик,988,-,USD,СПб ИЗОТОП,https://spb.hh.ru/vacancy/49081948?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-42,Ведущий Аналитик 1С ЗУП,1552,2117,USD,ООО Проекты и Поддержка,https://spb.hh.ru/vacancy/48997510?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-43,Бизнес аналитик / Системный аналитик в международные CRM проекты,847,1129,USD,Smart Capital,https://spb.hh.ru/vacancy/48887915?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-44,Ведущий аналитик-маркетолог (руководитель отдела),-,-,USD,ООО Глассен-АйТи,https://spb.hh.ru/vacancy/48597093?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-45,Консультант-аналитик 1С (Ведущий консультант-аналитик 1С),1693,2117,USD,Onecloudspace,https://spb.hh.ru/vacancy/47459474?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-46,Младший бизнес-аналитик,423,706,USD,Интроверт,https://spb.hh.ru/vacancy/48384641?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-47,Бизнес-аналитик,-,-,USD,СИГМА,https://spb.hh.ru/vacancy/48978645?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-48,Ведущий аналитик BI (удаленно),-,-,USD,IBS,https://spb.hh.ru/vacancy/49037125?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-49,Бизнес-аналитик (1С),-,-,USD,ООО СТА Карго,https://spb.hh.ru/vacancy/48433185?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-50,Старший/Ведущий аналитик,2822,-,USD,ООО Крит,https://spb.hh.ru/vacancy/44747352?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-51,Аналитик,2117,-,USD,Lenvendo,https://spb.hh.ru/vacancy/48058870?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-52,Ведущий аналитик,-,-,USD,Мегалит,https://spb.hh.ru/vacancy/49081898?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-53,Ведущий аналитик,-,-,USD,Digital Design,https://spb.hh.ru/vacancy/49044368?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-54,Ведущий аналитик,-,-,USD,Digital Design,https://spb.hh.ru/vacancy/49044394?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-55,Ведущий аналитик,-,-,USD,"«Почта России», Офис",https://spb.hh.ru/vacancy/48497676?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-56,Аналитик,-,1693,USD,ООО КримТех,https://spb.hh.ru/vacancy/48943621?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-57,Ведущий аналитик 1С,-,2117,USD,ПитерСофт,https://spb.hh.ru/vacancy/48380442?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-58,Ведущий аналитик данных,1411,1411,USD,ООО Агентство судебного взыскания,https://spb.hh.ru/vacancy/47909324?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-59,Ведущий аналитик Отдела операционного маркетинга,-,-,USD,ООО ОРИМИ ТРЭЙД,https://spb.hh.ru/vacancy/48345410?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-60,Старший аналитик,-,-,USD,ООО ОРИМИ ТРЭЙД,https://spb.hh.ru/vacancy/48850784?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-61,Ведущий аналитик отдела инвестиционного контроллинга,-,-,USD,"Лента, федеральная розничная сеть, Офис",https://spb.hh.ru/vacancy/48416564?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-62,Ведущий аналитик (логистика),1411,-,USD,ООО Корона Авто,https://spb.hh.ru/vacancy/48195062?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-63,Ведущий аналитик 1С,1976,1976,USD,ПЕНОПЛЭКС,https://spb.hh.ru/vacancy/45447010?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-64,Ведущий аналитик,-,-,USD,"Максимум, Автомобильный холдинг",https://spb.hh.ru/vacancy/48293215?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-65,Ведущий аналитик,1129,-,USD,ООО Агентство судебного взыскания,https://spb.hh.ru/vacancy/47712683?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-66,Продуктовый аналитик,-,-,USD,GrowFood,https://spb.hh.ru/vacancy/42329774?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-67,Ведущий аналитик,-,-,USD,"ПАО «Группа Черкизово», Центральный офис",https://spb.hh.ru/vacancy/48706888?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-68,Ведущий Аналитик 1С,2117,2822,USD,diHouse (ГК ЛАНИТ),https://spb.hh.ru/vacancy/48549083?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-69,Бизнес-аналитик удаленно,-,2117,USD,Илюмжинова Вера Викторовна,https://spb.hh.ru/vacancy/48553345?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-70,Ведущий бизнес-аналитик,957,1116,USD,АКМЭ сервис,https://spb.hh.ru/vacancy/48443707?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-71,Специалист по контекстной рекламе / Контестолог / Директолог,988,-,USD,ООО Строй-Сервис,https://spb.hh.ru/vacancy/49036714?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-72,Интернет-маркетолог (уровень Middle+/Senior),1129,1976,USD,Sound Dealer,https://spb.hh.ru/vacancy/48880800?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-73,Старший менеджер по подбору персонала,-,-,USD,Авито: продажи,https://spb.hh.ru/vacancy/49080833?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-74,Старший менеджер по работе с крупными корпоративными клиентами,-,-,USD,Сбер для экспертов,https://spb.hh.ru/vacancy/48254514?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-75,Senior IT recruiter (Gamedev),2117,-,USD,ООО Amaya Soft,https://spb.hh.ru/vacancy/48742866?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-76,Менеджер по продажам / Менеджер отдела продаж / ЛИДоруб,1129,2963,USD,ООО Строй-Сервис,https://spb.hh.ru/vacancy/46639966?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-77,Системный аналитик,2117,-,USD,ООО ЛК Сименс Финанс,https://spb.hh.ru/vacancy/48901138?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-78,Ведущий менеджер по подбору персонала,988,-,USD,Компания Кухонный завод,https://spb.hh.ru/vacancy/48251240?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-79,Менеджер отдела квалификации (обработка входящих заявок и назначение встреч),564,988,USD,INVO Group,https://spb.hh.ru/vacancy/48919796?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-80,Бизнес / системный аналитик,-,2540,USD,АРТ-БАНК,https://spb.hh.ru/vacancy/48470064?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-81,Ведущий аналитик BI,-,-,USD,СИГМА,https://spb.hh.ru/vacancy/48978442?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-82,Ведущий бизнес-аналитик,-,-,USD,Eqvanta,https://spb.hh.ru/vacancy/48560167?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-83,Старший бизнес-аналитик СЭД,1411,-,USD,Syntellect (ООО СИНТЕЛЛЕКТ),https://spb.hh.ru/vacancy/42785686?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-84,Системный аналитик (Senior),2822,3528,USD,ООО Интеллектуальные Продукты,https://spb.hh.ru/vacancy/48888663?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-85,Ведущий специалист по аналитике,-,-,USD,Билайн,https://spb.hh.ru/vacancy/48405082?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-86,"Главный специалист (аналитика, прогнозирование)",889,-,USD,"«Почта России», Офис",https://spb.hh.ru/vacancy/46984298?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-87,"Аналитик 1С / Ведущий аналитик 1С ERP (Финансы, бухгалтерия, зарплата)",1411,2258,USD,ВНЕДРЕНЕЦ,https://spb.hh.ru/vacancy/48299604?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-88,Аналитик CRM / бизнес-аналитик,-,-,USD,ДЛТ. ЦУМ – Санкт-Петербург,https://spb.hh.ru/vacancy/47565021?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-89,System Analyst/ Системный аналитик (возможность полной удаленной работы),2117,-,USD,Екассир,https://spb.hh.ru/vacancy/47109559?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-90,Data Analyst,2822,-,USD,Novakid Inc,https://spb.hh.ru/vacancy/48775586?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-91,Финансовый аналитик,988,-,USD,СПб ИЗОТОП,https://spb.hh.ru/vacancy/49081948?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-92,Ведущий Аналитик 1С ЗУП,1552,2117,USD,ООО Проекты и Поддержка,https://spb.hh.ru/vacancy/48997510?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-93,Бизнес аналитик / Системный аналитик в международные CRM проекты,847,1129,USD,Smart Capital,https://spb.hh.ru/vacancy/48887915?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-94,Ведущий аналитик-маркетолог (руководитель отдела),-,-,USD,ООО Глассен-АйТи,https://spb.hh.ru/vacancy/48597093?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-95,Консультант-аналитик 1С (Ведущий консультант-аналитик 1С),1693,2117,USD,Onecloudspace,https://spb.hh.ru/vacancy/47459474?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-96,Младший бизнес-аналитик,423,706,USD,Интроверт,https://spb.hh.ru/vacancy/48384641?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-97,Бизнес-аналитик,-,-,USD,СИГМА,https://spb.hh.ru/vacancy/48978645?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-98,Ведущий аналитик BI (удаленно),-,-,USD,IBS,https://spb.hh.ru/vacancy/49037125?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-99,Бизнес-аналитик (1С),-,-,USD,ООО СТА Карго,https://spb.hh.ru/vacancy/48433185?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-100,Старший/Ведущий аналитик,2822,-,USD,ООО Крит,https://spb.hh.ru/vacancy/44747352?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-101,Ведущий аналитик,-,-,USD,Мегалит,https://spb.hh.ru/vacancy/49081898?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-102,Аналитик,2117,-,USD,Lenvendo,https://spb.hh.ru/vacancy/48058870?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-103,Ведущий аналитик,-,-,USD,Digital Design,https://spb.hh.ru/vacancy/49044394?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-104,Ведущий аналитик,-,-,USD,Digital Design,https://spb.hh.ru/vacancy/49044368?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-105,Ведущий аналитик Отдела операционного маркетинга,-,-,USD,ООО ОРИМИ ТРЭЙД,https://spb.hh.ru/vacancy/48345410?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-106,Ведущий аналитик,-,-,USD,"«Почта России», Офис",https://spb.hh.ru/vacancy/48497676?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-107,Аналитик,-,1693,USD,ООО КримТех,https://spb.hh.ru/vacancy/48943621?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-108,Ведущий аналитик данных,1411,1411,USD,ООО Агентство судебного взыскания,https://spb.hh.ru/vacancy/47909324?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-109,Старший аналитик,-,-,USD,ООО ОРИМИ ТРЭЙД,https://spb.hh.ru/vacancy/48850784?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-110,Продуктовый аналитик,-,-,USD,GrowFood,https://spb.hh.ru/vacancy/42329774?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-111,Ведущий аналитик 1С,-,2117,USD,ПитерСофт,https://spb.hh.ru/vacancy/48380442?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-112,Ведущий аналитик отдела инвестиционного контроллинга,-,-,USD,"Лента, федеральная розничная сеть, Офис",https://spb.hh.ru/vacancy/48416564?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-113,Ведущий аналитик (логистика),1411,-,USD,ООО Корона Авто,https://spb.hh.ru/vacancy/48195062?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-114,Ведущий аналитик,1129,-,USD,ООО Агентство судебного взыскания,https://spb.hh.ru/vacancy/47712683?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-115,Ведущий аналитик,-,-,USD,"Максимум, Автомобильный холдинг",https://spb.hh.ru/vacancy/48293215?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-116,Ведущий аналитик 1С,1976,1976,USD,ПЕНОПЛЭКС,https://spb.hh.ru/vacancy/45447010?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-117,Ведущий аналитик,-,-,USD,"ПАО «Группа Черкизово», Центральный офис",https://spb.hh.ru/vacancy/48706888?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-118,Ведущий Аналитик 1С,2117,2822,USD,diHouse (ГК ЛАНИТ),https://spb.hh.ru/vacancy/48549083?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-119,Бизнес-аналитик удаленно,-,2117,USD,Илюмжинова Вера Викторовна,https://spb.hh.ru/vacancy/48553345?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-120,Ведущий бизнес-аналитик,957,1116,USD,АКМЭ сервис,https://spb.hh.ru/vacancy/48443707?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-121,Специалист по контекстной рекламе / Контестолог / Директолог,988,-,USD,ООО Строй-Сервис,https://spb.hh.ru/vacancy/49036714?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-122,Интернет-маркетолог (уровень Middle+/Senior),1129,1976,USD,Sound Dealer,https://spb.hh.ru/vacancy/48880800?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-123,Старший менеджер по подбору персонала,-,-,USD,Авито: продажи,https://spb.hh.ru/vacancy/49080833?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-124,Старший менеджер по работе с крупными корпоративными клиентами,-,-,USD,Сбер для экспертов,https://spb.hh.ru/vacancy/48254514?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-125,Senior IT recruiter (Gamedev),2117,-,USD,ООО Amaya Soft,https://spb.hh.ru/vacancy/48742866?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-126,Менеджер по продажам / Менеджер отдела продаж / ЛИДоруб,1129,2963,USD,ООО Строй-Сервис,https://spb.hh.ru/vacancy/46639966?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-127,Системный аналитик,2117,-,USD,ООО ЛК Сименс Финанс,https://spb.hh.ru/vacancy/48901138?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-128,Ведущий менеджер по подбору персонала,988,-,USD,Компания Кухонный завод,https://spb.hh.ru/vacancy/48251240?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-129,Менеджер отдела квалификации (обработка входящих заявок и назначение встреч),564,988,USD,INVO Group,https://spb.hh.ru/vacancy/48919796?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-130,Бизнес / системный аналитик,-,2540,USD,АРТ-БАНК,https://spb.hh.ru/vacancy/48470064?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-131,Ведущий аналитик BI,-,-,USD,СИГМА,https://spb.hh.ru/vacancy/48978442?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-132,Ведущий бизнес-аналитик,-,-,USD,Eqvanta,https://spb.hh.ru/vacancy/48560167?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-133,Старший бизнес-аналитик СЭД,1411,-,USD,Syntellect (ООО СИНТЕЛЛЕКТ),https://spb.hh.ru/vacancy/42785686?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-134,Системный аналитик (Senior),2822,3528,USD,ООО Интеллектуальные Продукты,https://spb.hh.ru/vacancy/48888663?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-135,Ведущий специалист по аналитике,-,-,USD,Билайн,https://spb.hh.ru/vacancy/48405082?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-136,"Главный специалист (аналитика, прогнозирование)",889,-,USD,"«Почта России», Офис",https://spb.hh.ru/vacancy/46984298?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-137,"Аналитик 1С / Ведущий аналитик 1С ERP (Финансы, бухгалтерия, зарплата)",1411,2258,USD,ВНЕДРЕНЕЦ,https://spb.hh.ru/vacancy/48299604?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-138,Аналитик CRM / бизнес-аналитик,-,-,USD,ДЛТ. ЦУМ – Санкт-Петербург,https://spb.hh.ru/vacancy/47565021?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-139,System Analyst/ Системный аналитик (возможность полной удаленной работы),2117,-,USD,Екассир,https://spb.hh.ru/vacancy/47109559?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-140,Data Analyst,2822,-,USD,Novakid Inc,https://spb.hh.ru/vacancy/48775586?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-141,Финансовый аналитик,988,-,USD,СПб ИЗОТОП,https://spb.hh.ru/vacancy/49081948?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-142,Ведущий Аналитик 1С ЗУП,1552,2117,USD,ООО Проекты и Поддержка,https://spb.hh.ru/vacancy/48997510?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-143,Бизнес аналитик / Системный аналитик в международные CRM проекты,847,1129,USD,Smart Capital,https://spb.hh.ru/vacancy/48887915?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-144,Ведущий аналитик-маркетолог (руководитель отдела),-,-,USD,ООО Глассен-АйТи,https://spb.hh.ru/vacancy/48597093?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-145,Консультант-аналитик 1С (Ведущий консультант-аналитик 1С),1693,2117,USD,Onecloudspace,https://spb.hh.ru/vacancy/47459474?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-146,Младший бизнес-аналитик,423,706,USD,Интроверт,https://spb.hh.ru/vacancy/48384641?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-147,Бизнес-аналитик,-,-,USD,СИГМА,https://spb.hh.ru/vacancy/48978645?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-148,Ведущий аналитик BI (удаленно),-,-,USD,IBS,https://spb.hh.ru/vacancy/49037125?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-149,Бизнес-аналитик (1С),-,-,USD,ООО СТА Карго,https://spb.hh.ru/vacancy/48433185?query=%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA
-150,Ведущий аналитик 1С,-,2117,USD,ПитерСофт,https://spb.superjob.ru/vakansii/veduschij-analitik-1s-39401345.html
-151,Ведущий аналитик,957,1116,USD,ГК АКМЭ,https://spb.superjob.ru/vakansii/veduschij-analitik-39402061.html
-152,Ведущий аналитик по планированию продаж,-,,USD,«Черкизово»,https://spb.superjob.ru/vakansii/veduschij-analitik-po-planirovaniyu-prodazh-39553941.html
-153,Ведущий аналитик 1С,-,2117,USD,Ладога Дистрибьюшен,https://spb.superjob.ru/vakansii/veduschij-analitik-1s-38172362.html
-154,Ведущий аналитик,-,,USD,Газпром нефть,https://spb.superjob.ru/vakansii/veduschij-analitik-39380729.html
-155,Ведущий интернет-маркетолог,917,-,USD,ИТА ГРУПП,https://spb.superjob.ru/vakansii/veduschij-internet-marketolog-39498406.html
-156,Ведущий специалист по маркетингу,1129,-,USD,Инвертор,https://spb.superjob.ru/vakansii/veduschij-specialist-po-marketingu-39392815.html
-157,Аналитик 1С,-,1693,USD,ПитерСофт,https://spb.superjob.ru/vakansii/analitik-1s-39401029.html
-158,Java-разработчик,-,,USD,Сбербанк России,https://spb.superjob.ru/vakansii/java-razrabotchik-39399668.html
-159,Маркетолог,1411,-,USD,КонсалтПро,https://spb.superjob.ru/vakansii/marketolog-39630619.html
-160,Координатор по документообороту,494,564,USD,Агропромкомплектация,https://spb.superjob.ru/vakansii/koordinator-po-dokumentooborotu-39430222.html
-161,Администратор сайта,-,,USD,Global Personal,https://spb.superjob.ru/vakansii/administrator-sajta-39369018.html
-162,Тестировщик,1129,1270,USD,"Предприятие ""АЛИДИ""",https://spb.superjob.ru/vakansii/testirovschik-39256107.html
-163,Тестировщик (ручное тестирование),-,,USD,Сбербанк России,https://spb.superjob.ru/vakansii/testirovschik-39358787.html
-164,Ведущий аналитик 1С,-,2117,USD,ПитерСофт,https://spb.superjob.ru/vakansii/veduschij-analitik-1s-39401345.html
-165,Ведущий аналитик,957,1116,USD,ГК АКМЭ,https://spb.superjob.ru/vakansii/veduschij-analitik-39402061.html
-166,Ведущий аналитик по планированию продаж,-,,USD,«Черкизово»,https://spb.superjob.ru/vakansii/veduschij-analitik-po-planirovaniyu-prodazh-39553941.html
-167,Ведущий аналитик 1С,-,2117,USD,Ладога Дистрибьюшен,https://spb.superjob.ru/vakansii/veduschij-analitik-1s-38172362.html
-168,Ведущий аналитик,-,,USD,Газпром нефть,https://spb.superjob.ru/vakansii/veduschij-analitik-39380729.html
-169,Ведущий интернет-маркетолог,917,-,USD,ИТА ГРУПП,https://spb.superjob.ru/vakansii/veduschij-internet-marketolog-39498406.html
-170,Ведущий специалист по маркетингу,1129,-,USD,Инвертор,https://spb.superjob.ru/vakansii/veduschij-specialist-po-marketingu-39392815.html
-171,Аналитик 1С,-,1693,USD,ПитерСофт,https://spb.superjob.ru/vakansii/analitik-1s-39401029.html
-172,Java-разработчик,-,,USD,Сбербанк России,https://spb.superjob.ru/vakansii/java-razrabotchik-39399668.html
-173,Маркетолог,1411,-,USD,КонсалтПро,https://spb.superjob.ru/vakansii/marketolog-39630619.html
-174,Координатор по документообороту,494,564,USD,Агропромкомплектация,https://spb.superjob.ru/vakansii/koordinator-po-dokumentooborotu-39430222.html
-175,Администратор сайта,-,,USD,Global Personal,https://spb.superjob.ru/vakansii/administrator-sajta-39369018.html
-176,Тестировщик,1129,1270,USD,"Предприятие ""АЛИДИ""",https://spb.superjob.ru/vakansii/testirovschik-39256107.html
-177,Тестировщик (ручное тестирование),-,,USD,Сбербанк России,https://spb.superjob.ru/vakansii/testirovschik-39358787.html
+0,Senior QA инженер,200000,,руб,ООО HeadHunter::QA,https://spb.hh.ru/vacancy/49887148?from=vacancy_search_list&query=python
+1,Junior Backend-разработчик (Python),50000,,руб,ООО ЛИИС Инженерные Решения,https://spb.hh.ru/vacancy/50542117?from=vacancy_search_list&query=python
+2,Python*django разработчик,130000,,руб,ООО Либерти,https://spb.hh.ru/vacancy/50674793?from=vacancy_search_list&query=python
+3,Разработчик Python/Django,120000,220000,руб,Coding Team,https://spb.hh.ru/vacancy/50254767?from=vacancy_search_list&query=python
+4,Разработчик на Python,60000,,руб,ООО МЕДГАРАНТ,https://spb.hh.ru/vacancy/50075829?from=vacancy_search_list&query=python
+5,Junior Data Scientist,50000,,руб,Улыбка радуги,https://spb.hh.ru/vacancy/49911273?from=vacancy_search_list&query=python
+6,Python-разработчик,200000,300000,руб,Novakid Inc,https://spb.hh.ru/vacancy/49397923?from=vacancy_search_list&query=python
+7,(Senior) Python developer,300000,400000,руб,ООО Вайт Код,https://spb.hh.ru/vacancy/50012826?from=vacancy_search_list&query=python
+8,Quantitative Developer,400000,,руб,Gara.capital,https://spb.hh.ru/vacancy/50153428?from=vacancy_search_list&query=python
+9,Разработчик Python,100000,200000,руб,AISA,https://spb.hh.ru/vacancy/47893332?from=vacancy_search_list&query=python
+10,Программист Python,120000,140000,руб,ООО Дата 3 Консалтинг,https://spb.hh.ru/vacancy/50282808?from=vacancy_search_list&query=python
+11,Python developer (senior),,350000,руб,Cindicator,https://spb.hh.ru/vacancy/50637706?from=vacancy_search_list&query=python
+12,"Junior programmer (Python, C++)",,,,Wargaming St. Petersburg (Lesta Studio),https://spb.hh.ru/vacancy/49789002?from=vacancy_search_list&query=python
+13,Python developer,,,,ООО Амбреллио,https://spb.hh.ru/vacancy/50614373?from=vacancy_search_list&query=python
+14,Junior Python Developer (remote),,,,Big Data Solutions,https://spb.hh.ru/vacancy/50673231?from=vacancy_search_list&query=python
+15,Python-разработчик,170000,,руб,FunBox,https://spb.hh.ru/vacancy/48973744?from=vacancy_search_list&query=python
+16,Middle python-разработчик,,150000,руб,Digital Hub,https://spb.hh.ru/vacancy/50586452?from=vacancy_search_list&query=python
+17,Python developer (remote),140000,220000,руб,ZeBrains,https://spb.hh.ru/vacancy/49617359?from=vacancy_search_list&query=python
+18,Младший программист / Junior Developer in QA,80000,120000,руб,Veeam Software,https://spb.hh.ru/vacancy/42015411?from=vacancy_search_list&query=python
+19,CV Engineer,180000,300000,руб,OVISION,https://spb.hh.ru/vacancy/50517634?from=vacancy_search_list&query=python
+20,Junior Python,25000,30000,руб,Центр координации медицинского обеспечения ВМА им. С. М. Кирова,https://spb.superjob.ru/vakansii/junior-python-39359235.html
+21,Software Engineer (Python / cloud),,,,Нью Медиа,https://spb.superjob.ru/vakansii/software-engineer-40501628.html
+22,"Преподаватель программирования на языке Python, преподаватель кибергигиены, мобильной разработки",,,,ГБОУ Школа № 120 Выборгского района,https://spb.superjob.ru/vakansii/prepodavatel-programmirovaniya-na-yazyke-python-39552087.html
+23,Преподаватель кружка программирования Python,,55000,руб,Алгоритмика Центральный р-н Санкт-Петербург,https://spb.superjob.ru/vakansii/prepodavatel-kruzhka-programmirovaniya-python-40720658.html
+24,Специалист службы поддержки с техническими знаниями в Яндекс 360 (бэкенд),15000,,руб,Яндекс,https://spb.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-v-yandeks-360-39814824.html
+25,Старший программист 1C,160000,200000,руб,УК Грандо,https://spb.superjob.ru/vakansii/starshij-programmist-1c-40648278.html
+26,Specialist DevOps,,280000,руб,ALP GROUP,https://spb.superjob.ru/vakansii/specialist-devops-40719996.html
+27,Аналитик BI,,,,Кадровое агентство уникальных специалистов,https://spb.superjob.ru/vakansii/analitik-bi-40803669.html
+28,Программист MS Dynamics AX (Axapta),,,руб,Национальная транспортная ассоциация,https://spb.superjob.ru/vakansii/programmist-ms-dynamics-ax-40488589.html
+29,Ведущий системный администратор Windows,80000,,руб,ФГБУ НМИЦ ТО им. Р. Р. Вредена,https://spb.superjob.ru/vakansii/veduschij-sistemnyj-administrator-windows-33468611.html
+30,IT-специалист (Middle+/Senior/Lead),200000,,руб,Эссистэнс Сервисес,https://spb.superjob.ru/vakansii/it-specialist-39287673.html
+31,Программист-математик,90000,,руб,Арт-Рекрутинг,https://spb.superjob.ru/vakansii/programmist-matematik-38958496.html
+32,Инженер по автоматизации (DevOps),,,,Скайер,https://spb.superjob.ru/vakansii/inzhener-po-avtomatizacii-40518016.html
+33,"Программист C++, QT",,,,"Студия анимационного кино ""Мельница""",https://spb.superjob.ru/vakansii/programmist-c-40661118.html
+34,Frontend разработчик,,,,Р-Фарм,https://spb.superjob.ru/vakansii/frontend-razrabotchik-40501777.html
+35,Node.js Developer,,,,SIM-Networks,https://spb.superjob.ru/vakansii/node-40625200.html
+36,Программист микроконтроллеров,50000,,руб,"""Концерн ""Автоматика""",https://spb.superjob.ru/vakansii/programmist-mikrokontrollerov-36189821.html
+37,Программист,,,,АктивТестГруп,https://spb.superjob.ru/vakansii/programmist-40043071.html
+38,Специалист по обработке данных (Аналитик данных),100000,,руб,"ФБГУ ""НМИЦ онкологии им. Н. Н. Петрова"" Минздрава России",https://spb.superjob.ru/vakansii/specialist-po-obrabotke-dannyh-38606438.html
+39,BI-аналитик,,150000,руб,Консалтинговая компания,https://spb.superjob.ru/vakansii/bi-analitik-40599572.html
