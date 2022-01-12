@@ -6,14 +6,6 @@ import sys
 
 logging.basicConfig(encoding='utf-8', level=logging.INFO)
 
-def get_datetime(datetime_from = '2000-01-01 00:00:00', 
-                datetime_to = '2021-01-01 00:00:00'):
-    new_date = get_date(datetime_from, datetime_to) 
-    new_datetime = datetime.datetime(new_date.year, new_date.month, new_date.day)
-    new_datetime = new_datetime + datetime.timedelta(seconds=random.randint(8*60*60 , 20*60*60))
-    return new_datetime 
-
-
 with open('data_for_finam.sql', 'w', encoding='utf-8') as f:
     list_querry = []
     list_querry.append('USE finam;\n\n')
@@ -46,7 +38,7 @@ with open('data_for_finam.sql', 'w', encoding='utf-8') as f:
                 'residence_address', 'mailing_address', 'mobile_phone',
                 'email']
     list_querry.append(f'INSERT INTO {table_name} ({", ".join(headers)}) VALUES \n')
-    num_clients = 2
+    num_clients = 500
     mobile_phone = gen.mobile_phone_init(num_mobiles=num_clients)
     get_inn = gen.get_inn_init(num_inns=num_clients)
     get_mail = gen.get_mail_init()
