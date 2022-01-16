@@ -1,0 +1,1675 @@
+WDM INFO log 01/16/2022 07:46:17 PM 
+
+WDM INFO log 01/16/2022 07:46:17 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:46:17 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:46:17 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:46:17 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:46:18 PM 
+
+WDM INFO log 01/16/2022 07:46:18 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:46:18 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:46:18 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:46:18 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:46:20 PM 
+
+WDM INFO log 01/16/2022 07:46:20 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:46:20 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:46:20 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:46:20 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:46:22 PM 
+
+WDM INFO log 01/16/2022 07:46:22 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:46:22 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:46:22 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:46:22 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:46:25 PM 
+
+WDM INFO log 01/16/2022 07:46:25 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:46:25 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:46:25 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:46:25 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:46:31 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:46:31 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:46:31 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:46:31 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:46:31 PM Consumer 1 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:46:38 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:46:38 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:46:38 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:46:38 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:46:38 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=22)
+root INFO consumer 01/16/2022 07:46:41 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:46:41 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:46:41 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:46:41 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:46:41 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=21)
+root INFO consumer 01/16/2022 07:46:43 PM consumer 3 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:46:43 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:46:43 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:46:43 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:46:43 PM Consumer 3 https://news.mail.ru/society/?utm_partner_id=945 (queue size=20)
+root INFO consumer 01/16/2022 07:46:44 PM consumer 4 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:46:44 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:46:44 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:46:44 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:46:44 PM Consumer 4 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:46:48 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:46:48 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:46:48 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:46:48 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:46:48 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:46:48 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:46:48 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:46:48 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:46:48 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:46:48 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+root INFO consumer 01/16/2022 07:46:50 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:46:50 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:46:50 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:46:50 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:46:50 PM Consumer 2 https://news.mail.ru/?utm_partner_id=945 (queue size=16)
+root INFO consumer 01/16/2022 07:47:00 PM consumer 4 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:00 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:00 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:00 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:00 PM Consumer 4 https://news.mail.ru/society/?utm_partner_id=945 (queue size=15)
+root INFO consumer 01/16/2022 07:47:00 PM consumer 3 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:00 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:00 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:00 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:00 PM Consumer 3 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:47:02 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:02 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:02 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:02 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:02 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:47:04 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:04 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:47:11 PM consumer 4 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:11 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:11 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:11 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:11 PM Consumer 4 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+root INFO consumer 01/16/2022 07:47:13 PM consumer 3 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:13 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:13 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:13 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:13 PM Consumer 3 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:47:17 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:17 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:17 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:17 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:17 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+root INFO consumer 01/16/2022 07:47:20 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:20 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:20 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:20 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:20 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=8)
+root INFO consumer 01/16/2022 07:47:26 PM consumer 3 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:26 PM Consumer 3 https://news.mail.ru/society/?utm_partner_id=945 (queue size=7)
+root INFO consumer 01/16/2022 07:47:26 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:26 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=6)
+root INFO consumer 01/16/2022 07:47:26 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:26 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:26 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=5)
+root INFO consumer 01/16/2022 07:47:37 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:37 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:37 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:37 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:37 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=4)
+root INFO consumer 01/16/2022 07:47:37 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:37 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:37 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:37 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:37 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=3)
+root INFO consumer 01/16/2022 07:47:47 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:47 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:47 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:47 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:47 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=2)
+root INFO consumer 01/16/2022 07:47:51 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:51 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:51 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:51 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:51 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=1)
+root INFO consumer 01/16/2022 07:47:56 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:56 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:47:56 PM Consumer 0 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:47:56 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:56 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:47:56 PM Consumer 2 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:47:57 PM consumer 4 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:57 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:57 PM Consumer 4 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:47:57 PM Consumer 4 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:47:57 PM consumer 3 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:47:57 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:47:57 PM Consumer 3 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:47:57 PM Consumer 3 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:47:57 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:47:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:47:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:00 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:00 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:48:00 PM Consumer 1 received EXIT event. Exiting
+WDM INFO log 01/16/2022 07:48:14 PM 
+
+WDM INFO log 01/16/2022 07:48:14 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:48:14 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:48:14 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:48:14 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:48:15 PM 
+
+WDM INFO log 01/16/2022 07:48:15 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:48:15 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:48:15 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:48:15 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:48:17 PM 
+
+WDM INFO log 01/16/2022 07:48:17 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:48:17 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:48:17 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:48:17 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:48:19 PM 
+
+WDM INFO log 01/16/2022 07:48:19 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:48:19 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:48:19 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:48:19 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:48:21 PM 
+
+WDM INFO log 01/16/2022 07:48:21 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:48:22 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:48:22 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:48:22 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:48:29 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:29 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:29 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:29 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:29 PM Consumer 1 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=24)
+root INFO consumer 01/16/2022 07:48:33 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:33 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:33 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:33 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:33 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=23)
+root INFO consumer 01/16/2022 07:48:33 PM consumer 3 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:33 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:33 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:33 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:33 PM Consumer 3 https://news.mail.ru/society/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:48:35 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:35 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:35 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:35 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:35 PM Consumer 2 https://news.mail.ru/?utm_partner_id=945 (queue size=21)
+WDM INFO log 01/16/2022 07:48:39 PM 
+
+WDM INFO log 01/16/2022 07:48:39 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:48:39 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:48:39 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:48:39 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:48:41 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:41 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:41 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:41 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:41 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:48:42 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:42 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:42 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:42 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:42 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:48:42 PM consumer 3 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:42 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:42 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:42 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:42 PM Consumer 3 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+WDM INFO log 01/16/2022 07:48:44 PM 
+
+WDM INFO log 01/16/2022 07:48:44 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:48:51 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:48:51 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:48:51 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:48:56 PM 
+
+WDM INFO log 01/16/2022 07:48:56 PM ====== WebDriver manager ======
+root INFO consumer 01/16/2022 07:48:56 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:56 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:48:57 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:57 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:57 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:48:58 PM consumer 4 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:48:58 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:48:58 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:48:58 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:48:58 PM Consumer 4 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:49:01 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:01 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:01 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:01 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:01 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+WDM INFO log 01/16/2022 07:49:02 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:49:02 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:49:03 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:49:04 PM consumer 5 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:04 PM Consumer 5 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:49:04 PM consumer 3 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:04 PM Consumer 3 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+WDM INFO log 01/16/2022 07:49:25 PM 
+
+WDM INFO log 01/16/2022 07:49:25 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:49:25 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:49:25 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:49:25 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:49:31 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:31 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:31 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:31 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:31 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=27)
+root INFO consumer 01/16/2022 07:49:33 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:33 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:33 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:33 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:33 PM Consumer 0 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=26)
+root INFO consumer 01/16/2022 07:49:37 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:37 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:37 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:37 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:37 PM Consumer 0 https://news.mail.ru/?utm_partner_id=945 (queue size=25)
+root INFO consumer 01/16/2022 07:49:39 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:39 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:39 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:39 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:39 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=24)
+root INFO consumer 01/16/2022 07:49:40 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:40 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:40 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:40 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:40 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:49:42 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:42 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:42 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:42 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:42 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:49:44 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:44 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:44 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:44 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:44 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=21)
+root INFO consumer 01/16/2022 07:49:46 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:46 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:46 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:46 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:46 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=20)
+root INFO consumer 01/16/2022 07:49:47 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:47 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:47 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:47 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:47 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:49:49 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:49 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:49 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:49 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:49 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:49:51 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:51 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:51 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:51 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:51 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+root INFO consumer 01/16/2022 07:49:53 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:53 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:53 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:53 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:53 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=16)
+root INFO consumer 01/16/2022 07:49:55 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:55 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:55 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:55 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:55 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=15)
+root INFO consumer 01/16/2022 07:49:56 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:56 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:49:58 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:49:58 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:49:58 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:49:58 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:49:58 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:50:00 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:00 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:00 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:00 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:00 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:50:01 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:01 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:01 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:01 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:01 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+root INFO consumer 01/16/2022 07:50:03 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:03 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:03 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:03 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:03 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:50:05 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:05 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:05 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:05 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:05 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+root INFO consumer 01/16/2022 07:50:06 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:06 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:06 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:06 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:06 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=8)
+root INFO consumer 01/16/2022 07:50:08 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:08 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:08 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:08 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:08 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=7)
+root INFO consumer 01/16/2022 07:50:10 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:10 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:10 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:10 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:10 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=6)
+root INFO consumer 01/16/2022 07:50:12 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:12 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:12 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:12 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:12 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=5)
+root INFO consumer 01/16/2022 07:50:14 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:14 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:14 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:14 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:14 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=4)
+root INFO consumer 01/16/2022 07:50:16 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:16 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:16 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:16 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:16 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=3)
+root INFO consumer 01/16/2022 07:50:18 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:18 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:18 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:18 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:18 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=2)
+root INFO consumer 01/16/2022 07:50:20 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:20 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:20 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:20 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:20 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=1)
+root INFO consumer 01/16/2022 07:50:21 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:21 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:21 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:21 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:21 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:50:21 PM Consumer 0 received EXIT event. Exiting
+WDM INFO log 01/16/2022 07:50:32 PM 
+
+WDM INFO log 01/16/2022 07:50:32 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:50:32 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:50:32 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:50:32 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:50:33 PM 
+
+WDM INFO log 01/16/2022 07:50:33 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:50:33 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:50:33 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:50:33 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:50:39 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:39 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:39 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:39 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:39 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=26)
+root INFO consumer 01/16/2022 07:50:40 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:40 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:40 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:40 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:40 PM Consumer 1 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=25)
+root INFO consumer 01/16/2022 07:50:43 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:43 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:43 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:43 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:43 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=24)
+root INFO consumer 01/16/2022 07:50:44 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:44 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:44 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:44 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:44 PM Consumer 0 https://news.mail.ru/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:50:46 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:46 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:46 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:46 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:46 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:50:48 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:48 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:48 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:48 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:48 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=21)
+root INFO consumer 01/16/2022 07:50:49 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:49 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:49 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:49 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:49 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=20)
+root INFO consumer 01/16/2022 07:50:51 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:51 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:51 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:51 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:51 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:50:53 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:53 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:53 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:53 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:53 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:50:55 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:55 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:55 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:55 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:55 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+root INFO consumer 01/16/2022 07:50:55 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:55 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:55 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:55 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:55 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=16)
+root INFO consumer 01/16/2022 07:50:57 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:57 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:57 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=15)
+root INFO consumer 01/16/2022 07:50:58 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:50:58 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:50:58 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:50:58 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:50:58 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:51:01 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:01 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:01 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:01 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:01 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:51:02 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:02 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:02 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:02 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:02 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:51:03 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:03 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:03 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:03 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:03 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+root INFO consumer 01/16/2022 07:51:04 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:04 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:51:07 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:07 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:07 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:07 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:07 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+root INFO consumer 01/16/2022 07:51:07 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:07 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:07 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:07 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:07 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=8)
+root INFO consumer 01/16/2022 07:51:10 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:10 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:10 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:10 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:10 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=7)
+root INFO consumer 01/16/2022 07:51:11 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:11 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:11 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:11 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:11 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=6)
+root INFO consumer 01/16/2022 07:51:13 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:13 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:13 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:13 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:13 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=5)
+root INFO consumer 01/16/2022 07:51:15 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:15 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:15 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:15 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:15 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=4)
+root INFO consumer 01/16/2022 07:51:17 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:17 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:17 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:17 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:17 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=3)
+root INFO consumer 01/16/2022 07:51:17 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:17 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:17 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:17 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:17 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=2)
+root INFO consumer 01/16/2022 07:51:19 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:19 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:19 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:19 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:19 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=1)
+root INFO consumer 01/16/2022 07:51:20 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:20 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:20 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:20 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:20 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:51:20 PM Consumer 1 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:51:22 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:22 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:22 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:22 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:22 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:51:22 PM Consumer 0 received EXIT event. Exiting
+WDM INFO log 01/16/2022 07:51:32 PM 
+
+WDM INFO log 01/16/2022 07:51:32 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:51:32 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:51:32 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:51:32 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:51:33 PM 
+
+WDM INFO log 01/16/2022 07:51:33 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:51:33 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:51:33 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:51:33 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:51:35 PM 
+
+WDM INFO log 01/16/2022 07:51:35 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:51:35 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:51:35 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:51:35 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:51:43 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:43 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:43 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:43 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:43 PM Consumer 1 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=25)
+root INFO consumer 01/16/2022 07:51:43 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:43 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:43 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:43 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:43 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=24)
+root INFO consumer 01/16/2022 07:51:48 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:48 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:48 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:48 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:48 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:51:48 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:48 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:48 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:48 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:48 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:51:49 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:49 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:49 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:49 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:49 PM Consumer 2 https://news.mail.ru/?utm_partner_id=945 (queue size=21)
+root INFO consumer 01/16/2022 07:51:54 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:54 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:54 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:54 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:54 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=20)
+root INFO consumer 01/16/2022 07:51:56 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:56 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:51:59 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:51:59 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:51:59 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:51:59 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:51:59 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:52:01 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:01 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:01 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:01 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:01 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+root INFO consumer 01/16/2022 07:52:04 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:04 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=16)
+root INFO consumer 01/16/2022 07:52:06 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:06 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:06 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:06 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:06 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=15)
+root INFO consumer 01/16/2022 07:52:08 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:08 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:08 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:08 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:08 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:52:10 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:10 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:10 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:10 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:10 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:52:13 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:13 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:13 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:13 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:13 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:52:14 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:14 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:14 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:14 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:14 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+root INFO consumer 01/16/2022 07:52:15 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:15 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:15 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:15 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:15 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:52:17 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:17 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:17 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:17 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:17 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+root INFO consumer 01/16/2022 07:52:19 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:19 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:19 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:19 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:19 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=8)
+root INFO consumer 01/16/2022 07:52:20 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:20 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:20 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:20 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:20 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=7)
+root INFO consumer 01/16/2022 07:52:24 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:24 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:24 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:24 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:24 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=6)
+root INFO consumer 01/16/2022 07:52:24 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:24 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:24 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:24 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:24 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=5)
+root INFO consumer 01/16/2022 07:52:25 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:25 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:25 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:25 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:25 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=4)
+root INFO consumer 01/16/2022 07:52:29 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:29 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:29 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:29 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:29 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=3)
+root INFO consumer 01/16/2022 07:52:29 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:29 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:29 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:29 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:29 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=2)
+root INFO consumer 01/16/2022 07:52:31 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:31 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:31 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:31 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:31 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=1)
+root INFO consumer 01/16/2022 07:52:34 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:34 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:34 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:34 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:34 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:52:34 PM Consumer 1 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:52:34 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:34 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:34 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:34 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:34 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:52:34 PM Consumer 2 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:52:35 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:52:35 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:52:35 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:52:35 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:52:35 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:52:35 PM Consumer 0 received EXIT event. Exiting
+WDM INFO log 01/16/2022 07:54:18 PM 
+
+WDM INFO log 01/16/2022 07:54:18 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:54:18 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:54:18 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:54:18 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:54:20 PM 
+
+WDM INFO log 01/16/2022 07:54:20 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:54:20 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:54:20 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:54:20 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:54:21 PM 
+
+WDM INFO log 01/16/2022 07:54:21 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:54:21 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:54:21 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:54:21 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:54:26 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:26 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:26 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:26 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:26 PM Consumer 1 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=25)
+root INFO consumer 01/16/2022 07:54:26 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:26 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:26 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:26 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:26 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=24)
+root INFO consumer 01/16/2022 07:54:28 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:28 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:28 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:28 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:28 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:54:29 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:29 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:29 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:29 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:29 PM Consumer 2 https://news.mail.ru/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:54:31 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:31 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:31 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:31 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:31 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=21)
+WDM INFO log 01/16/2022 07:54:41 PM 
+
+WDM INFO log 01/16/2022 07:54:41 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:54:41 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:54:41 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:54:41 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:54:43 PM 
+
+WDM INFO log 01/16/2022 07:54:43 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:54:43 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:54:43 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:54:43 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:54:46 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:46 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:46 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:46 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:46 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=26)
+root INFO consumer 01/16/2022 07:54:48 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:48 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:48 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:48 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:48 PM Consumer 1 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=25)
+root INFO consumer 01/16/2022 07:54:50 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:50 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:50 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:50 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:50 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=24)
+root INFO consumer 01/16/2022 07:54:50 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:50 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:50 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:50 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:50 PM Consumer 0 https://news.mail.ru/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:54:51 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:51 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:51 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:51 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:51 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:54:52 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:52 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:52 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:52 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:52 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=21)
+root INFO consumer 01/16/2022 07:54:53 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:53 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:53 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:53 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:53 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=20)
+root INFO consumer 01/16/2022 07:54:54 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:54 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:54 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:54 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:54 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:54:55 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:55 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:55 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:55 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:55 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:54:55 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:55 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:55 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:55 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:55 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+root INFO consumer 01/16/2022 07:54:57 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:57 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:57 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=16)
+root INFO consumer 01/16/2022 07:54:57 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:57 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:57 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=15)
+root INFO consumer 01/16/2022 07:54:58 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:58 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:58 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:58 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:58 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:54:59 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:54:59 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:54:59 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:54:59 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:54:59 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:55:00 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:00 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:00 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:00 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:00 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:55:00 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:00 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:00 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:00 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:00 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+root INFO consumer 01/16/2022 07:55:02 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:02 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:02 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:02 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:02 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:55:02 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:02 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:02 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:02 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:02 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+root INFO consumer 01/16/2022 07:55:04 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:04 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=8)
+root INFO consumer 01/16/2022 07:55:04 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:04 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=7)
+root INFO consumer 01/16/2022 07:55:05 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:05 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:05 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:05 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:05 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=6)
+root INFO consumer 01/16/2022 07:55:06 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:06 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:06 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:06 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:06 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=5)
+root INFO consumer 01/16/2022 07:55:07 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:07 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:07 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:07 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:07 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=4)
+root INFO consumer 01/16/2022 07:55:07 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:07 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:07 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:07 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:07 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=3)
+root INFO consumer 01/16/2022 07:55:08 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:08 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:08 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:08 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:08 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=2)
+root INFO consumer 01/16/2022 07:55:09 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:09 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:09 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:09 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:09 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=1)
+root INFO consumer 01/16/2022 07:55:10 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:10 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:10 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:10 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:10 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:55:10 PM Consumer 1 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:55:10 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:10 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:10 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:10 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:10 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:55:10 PM Consumer 0 received EXIT event. Exiting
+WDM INFO log 01/16/2022 07:55:25 PM 
+
+WDM INFO log 01/16/2022 07:55:25 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:55:25 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:55:25 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:55:25 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:55:26 PM 
+
+WDM INFO log 01/16/2022 07:55:26 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:55:26 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:55:26 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:55:26 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:55:27 PM 
+
+WDM INFO log 01/16/2022 07:55:27 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:55:27 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:55:27 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:55:27 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:55:31 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:31 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:31 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:31 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:31 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=25)
+root INFO consumer 01/16/2022 07:55:32 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:32 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:32 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:32 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:32 PM Consumer 1 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=24)
+root INFO consumer 01/16/2022 07:55:35 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:35 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:35 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:35 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:35 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:55:35 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:35 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:35 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:35 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:35 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:55:36 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:36 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:36 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:36 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:36 PM Consumer 2 https://news.mail.ru/?utm_partner_id=945 (queue size=21)
+root INFO consumer 01/16/2022 07:55:37 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:37 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:37 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:37 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:37 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=20)
+root INFO consumer 01/16/2022 07:55:38 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:38 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:38 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:38 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:38 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:55:40 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:40 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:40 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:40 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:40 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:55:40 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:40 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:40 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:40 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:40 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+root INFO consumer 01/16/2022 07:55:41 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:41 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:41 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:41 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:41 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=16)
+root INFO consumer 01/16/2022 07:55:42 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:42 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:42 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:42 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:42 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=15)
+root INFO consumer 01/16/2022 07:55:43 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:43 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:43 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:43 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:43 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:55:43 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:43 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:43 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:43 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:43 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:55:45 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:45 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:45 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:45 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:45 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:55:46 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:46 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:46 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:46 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:46 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+root INFO consumer 01/16/2022 07:55:46 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:46 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:46 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:46 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:46 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:55:47 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:47 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:47 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:47 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:47 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+root INFO consumer 01/16/2022 07:55:49 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:49 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:49 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:49 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:49 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=8)
+root INFO consumer 01/16/2022 07:55:49 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:49 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:49 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:49 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:49 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=7)
+root INFO consumer 01/16/2022 07:55:50 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:50 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:50 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:50 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:50 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=6)
+root INFO consumer 01/16/2022 07:55:51 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:51 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:51 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:51 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:51 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=5)
+root INFO consumer 01/16/2022 07:55:52 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:52 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:52 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:52 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:52 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=4)
+root INFO consumer 01/16/2022 07:55:53 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:53 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:53 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:53 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:53 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=3)
+root INFO consumer 01/16/2022 07:55:54 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:54 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:54 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:54 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:54 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=2)
+root INFO consumer 01/16/2022 07:55:54 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:54 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:54 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:54 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:54 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=1)
+root INFO consumer 01/16/2022 07:55:56 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:56 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:55:56 PM Consumer 0 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:55:56 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:56 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:55:56 PM Consumer 1 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:55:56 PM consumer 2 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:55:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:55:56 PM Consumer 2 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:55:56 PM Consumer 2 received EXIT event. Exiting
+WDM INFO log 01/16/2022 07:56:17 PM 
+
+WDM INFO log 01/16/2022 07:56:17 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:56:17 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:56:17 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:56:17 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:56:20 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:20 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:20 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:20 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:20 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=53)
+root INFO consumer 01/16/2022 07:56:22 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:22 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:22 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:22 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:22 PM Consumer 0 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=52)
+root INFO consumer 01/16/2022 07:56:24 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:24 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:24 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:24 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:24 PM Consumer 0 https://news.mail.ru/?utm_partner_id=945 (queue size=51)
+root INFO consumer 01/16/2022 07:56:26 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:26 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:26 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:26 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:26 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=50)
+root INFO consumer 01/16/2022 07:56:27 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:27 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:27 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:27 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:27 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=49)
+root INFO consumer 01/16/2022 07:56:28 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:28 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:28 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:28 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:28 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=48)
+root INFO consumer 01/16/2022 07:56:30 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:30 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:30 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:30 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:30 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=47)
+root INFO consumer 01/16/2022 07:56:31 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:31 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:31 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:31 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:31 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=46)
+root INFO consumer 01/16/2022 07:56:32 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:32 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:32 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:32 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:32 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=45)
+root INFO consumer 01/16/2022 07:56:34 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:34 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:34 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:34 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:34 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=44)
+root INFO consumer 01/16/2022 07:56:35 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:35 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:35 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:35 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:35 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=43)
+root INFO consumer 01/16/2022 07:56:36 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:36 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:36 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:36 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:36 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=42)
+root INFO consumer 01/16/2022 07:56:37 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:37 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:37 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:37 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:37 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=41)
+root INFO consumer 01/16/2022 07:56:38 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:38 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:38 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:38 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:38 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=40)
+root INFO consumer 01/16/2022 07:56:39 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:39 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:39 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:39 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:39 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=39)
+root INFO consumer 01/16/2022 07:56:41 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:41 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:41 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:41 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:41 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=38)
+root INFO consumer 01/16/2022 07:56:42 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:42 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:42 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:42 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:42 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=37)
+root INFO consumer 01/16/2022 07:56:43 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:43 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:43 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:43 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:43 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=36)
+root INFO consumer 01/16/2022 07:56:44 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:44 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:44 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:44 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:44 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=35)
+root INFO consumer 01/16/2022 07:56:45 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:45 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:45 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:45 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:45 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=34)
+root INFO consumer 01/16/2022 07:56:46 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:46 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:46 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:46 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:46 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=33)
+root INFO consumer 01/16/2022 07:56:47 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:47 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:47 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:47 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:47 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=32)
+root INFO consumer 01/16/2022 07:56:48 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:48 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:48 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:48 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:48 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=31)
+root INFO consumer 01/16/2022 07:56:49 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:49 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:49 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:49 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:49 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=30)
+root INFO consumer 01/16/2022 07:56:50 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:50 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:50 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:50 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:50 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=29)
+root INFO consumer 01/16/2022 07:56:51 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:51 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:51 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:51 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:51 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=28)
+root INFO consumer 01/16/2022 07:56:53 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:53 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:53 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:53 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:53 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=27)
+root INFO consumer 01/16/2022 07:56:54 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:54 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:54 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:54 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:54 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=26)
+root INFO consumer 01/16/2022 07:56:56 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:56 PM Consumer 0 https://news.mail.ru/?utm_partner_id=945 (queue size=25)
+root INFO consumer 01/16/2022 07:56:57 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:57 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:57 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=24)
+root INFO consumer 01/16/2022 07:56:58 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:58 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:58 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:58 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:58 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:56:59 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:56:59 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:56:59 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:56:59 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:56:59 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:57:00 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:00 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:00 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:00 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:00 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=21)
+root INFO consumer 01/16/2022 07:57:01 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:01 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:01 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:01 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:01 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=20)
+root INFO consumer 01/16/2022 07:57:02 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:02 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:02 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:02 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:02 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:57:04 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:04 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:57:05 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:05 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:05 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:05 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:05 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+root INFO consumer 01/16/2022 07:57:06 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:06 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:06 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:06 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:06 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=16)
+root INFO consumer 01/16/2022 07:57:08 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:08 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:08 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:08 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:08 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=15)
+root INFO consumer 01/16/2022 07:57:09 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:09 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:09 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:09 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:09 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:57:09 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:09 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:09 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:09 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:09 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:57:11 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:11 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:11 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:11 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:11 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:57:12 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:12 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:12 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:12 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:12 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+root INFO consumer 01/16/2022 07:57:13 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:13 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:13 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:13 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:13 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:57:14 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:14 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:14 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:14 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:14 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+root INFO consumer 01/16/2022 07:57:16 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:16 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:16 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:16 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:16 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=8)
+root INFO consumer 01/16/2022 07:57:17 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:17 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:17 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:17 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:17 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=7)
+root INFO consumer 01/16/2022 07:57:18 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:18 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:18 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:18 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:18 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=6)
+root INFO consumer 01/16/2022 07:57:19 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:19 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:19 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:19 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:19 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=5)
+root INFO consumer 01/16/2022 07:57:20 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:20 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:20 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:20 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:20 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=4)
+root INFO consumer 01/16/2022 07:57:22 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:22 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:22 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:22 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:22 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=3)
+root INFO consumer 01/16/2022 07:57:23 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:23 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:23 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:23 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:23 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=2)
+root INFO consumer 01/16/2022 07:57:24 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:24 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:24 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:24 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:24 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=1)
+root INFO consumer 01/16/2022 07:57:25 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:25 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:25 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:25 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:25 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:57:25 PM Consumer 0 received EXIT event. Exiting
+WDM INFO log 01/16/2022 07:57:38 PM 
+
+WDM INFO log 01/16/2022 07:57:38 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:57:38 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:57:38 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:57:38 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+WDM INFO log 01/16/2022 07:57:39 PM 
+
+WDM INFO log 01/16/2022 07:57:39 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:57:40 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:57:40 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:57:40 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+root INFO consumer 01/16/2022 07:57:43 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:43 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:43 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:43 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:43 PM Consumer 0 https://news.mail.ru/politics/49626311/ (queue size=52)
+root INFO consumer 01/16/2022 07:57:45 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:45 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:45 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:45 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:45 PM Consumer 1 https://news.mail.ru/inregions/st_petersburg/91/?utm_partner_id=945 (queue size=51)
+root INFO consumer 01/16/2022 07:57:46 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:46 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:46 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:46 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:46 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=50)
+root INFO consumer 01/16/2022 07:57:47 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:47 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:47 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:47 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:47 PM Consumer 0 https://news.mail.ru/?utm_partner_id=945 (queue size=49)
+root INFO consumer 01/16/2022 07:57:47 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:47 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:47 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:47 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:47 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=48)
+root INFO consumer 01/16/2022 07:57:49 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:49 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:49 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:49 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:49 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=47)
+root INFO consumer 01/16/2022 07:57:49 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:49 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:49 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:49 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:49 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=46)
+root INFO consumer 01/16/2022 07:57:51 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:51 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:51 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:51 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:51 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=45)
+root INFO consumer 01/16/2022 07:57:51 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:51 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:51 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:51 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:51 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=44)
+root INFO consumer 01/16/2022 07:57:52 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:52 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:52 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:52 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:52 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=43)
+root INFO consumer 01/16/2022 07:57:53 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:53 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:53 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:53 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:53 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=42)
+root INFO consumer 01/16/2022 07:57:54 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:54 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:54 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:54 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:54 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=41)
+root INFO consumer 01/16/2022 07:57:55 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:55 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:55 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:55 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:55 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=40)
+root INFO consumer 01/16/2022 07:57:56 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:56 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=39)
+root INFO consumer 01/16/2022 07:57:56 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:56 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:56 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:56 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:56 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=38)
+root INFO consumer 01/16/2022 07:57:57 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:57 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:57 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:57 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:57 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=37)
+root INFO consumer 01/16/2022 07:57:58 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:58 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:58 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:58 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:58 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=36)
+root INFO consumer 01/16/2022 07:57:59 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:59 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:59 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:59 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:59 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=35)
+root INFO consumer 01/16/2022 07:57:59 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:57:59 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:57:59 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:57:59 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:57:59 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=34)
+root INFO consumer 01/16/2022 07:58:00 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:00 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:00 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:00 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:00 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=33)
+root INFO consumer 01/16/2022 07:58:01 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:01 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:01 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:01 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:01 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=32)
+root INFO consumer 01/16/2022 07:58:02 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:02 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:02 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:02 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:02 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=31)
+root INFO consumer 01/16/2022 07:58:02 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:02 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:02 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:02 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:02 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=30)
+root INFO consumer 01/16/2022 07:58:03 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:03 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:03 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:03 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:03 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=29)
+root INFO consumer 01/16/2022 07:58:04 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:04 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:04 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:04 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:04 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=28)
+root INFO consumer 01/16/2022 07:58:05 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:05 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:05 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:05 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:05 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=27)
+root INFO consumer 01/16/2022 07:58:05 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:05 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:05 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:05 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:05 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=26)
+root INFO consumer 01/16/2022 07:58:06 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:06 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:06 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:06 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:06 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=25)
+root INFO consumer 01/16/2022 07:58:07 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:07 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:07 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:07 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:07 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=24)
+root INFO consumer 01/16/2022 07:58:08 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:08 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:08 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:08 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:08 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=23)
+root INFO consumer 01/16/2022 07:58:09 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:09 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:09 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:09 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:09 PM Consumer 0 https://news.mail.ru/?utm_partner_id=945 (queue size=22)
+root INFO consumer 01/16/2022 07:58:09 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:09 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:09 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:09 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:09 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=21)
+root INFO consumer 01/16/2022 07:58:11 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:11 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:11 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:11 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:11 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=20)
+root INFO consumer 01/16/2022 07:58:11 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:11 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:11 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:11 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:11 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=19)
+root INFO consumer 01/16/2022 07:58:12 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:12 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:12 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:12 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:12 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=18)
+root INFO consumer 01/16/2022 07:58:12 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:12 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:12 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:12 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:12 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=17)
+root INFO consumer 01/16/2022 07:58:14 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:14 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:14 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:14 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:14 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=16)
+root INFO consumer 01/16/2022 07:58:14 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:14 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:14 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:14 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:14 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=15)
+root INFO consumer 01/16/2022 07:58:15 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:15 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:15 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:15 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:15 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=14)
+root INFO consumer 01/16/2022 07:58:16 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:16 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:16 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:16 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:16 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=13)
+root INFO consumer 01/16/2022 07:58:17 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:17 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:17 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:17 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:17 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=12)
+root INFO consumer 01/16/2022 07:58:17 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:17 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:17 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:17 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:17 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=11)
+root INFO consumer 01/16/2022 07:58:18 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:18 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:18 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:18 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:18 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=10)
+root INFO consumer 01/16/2022 07:58:19 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:19 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:19 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:19 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:19 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=9)
+root INFO consumer 01/16/2022 07:58:20 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:20 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:20 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:20 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:20 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=8)
+root INFO consumer 01/16/2022 07:58:20 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:20 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:20 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:20 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:20 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=7)
+root INFO consumer 01/16/2022 07:58:21 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:21 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:21 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:21 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:21 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=6)
+root INFO consumer 01/16/2022 07:58:21 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:21 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:21 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:21 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:21 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=5)
+root INFO consumer 01/16/2022 07:58:23 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:23 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:23 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:23 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:23 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=4)
+root INFO consumer 01/16/2022 07:58:23 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:23 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:23 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:23 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:23 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=3)
+root INFO consumer 01/16/2022 07:58:24 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:24 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:24 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:24 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:24 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=2)
+root INFO consumer 01/16/2022 07:58:24 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:24 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:24 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:24 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:24 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=1)
+root INFO consumer 01/16/2022 07:58:25 PM consumer 1 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:25 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:25 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:25 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:25 PM Consumer 1 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:58:25 PM Consumer 1 received EXIT event. Exiting
+root INFO consumer 01/16/2022 07:58:26 PM consumer 0 пытается записать данные в словарь
+root INFO __setitem__ 01/16/2022 07:58:26 PM %s:Зашли в setitem
+root INFO __setitem__ 01/16/2022 07:58:26 PM %s:Прошли через producer_lock.acquire()
+root INFO __setitem__ 01/16/2022 07:58:26 PM %s:Прошли через consumer_lock.release()
+root INFO consumer 01/16/2022 07:58:26 PM Consumer 0 https://news.mail.ru/society/?utm_partner_id=945 (queue size=0)
+root INFO consumer 01/16/2022 07:58:26 PM Consumer 0 received EXIT event. Exiting
+WDM INFO log 01/16/2022 07:59:47 PM 
+
+WDM INFO log 01/16/2022 07:59:47 PM ====== WebDriver manager ======
+WDM INFO log 01/16/2022 07:59:47 PM Current google-chrome version is 97.0.4692
+WDM INFO log 01/16/2022 07:59:47 PM Get LATEST chromedriver version for 97.0.4692 google-chrome
+WDM INFO log 01/16/2022 07:59:47 PM Driver [C:\Users\79215\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
